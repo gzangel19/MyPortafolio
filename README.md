@@ -26,7 +26,6 @@ Portafolio Personal creado en HTML 5, Javascript y maquetado con Boostrap 5
 Forkeá y cloná el repositorio
 
 - Forkeá y cloná el repositorio
-- Parado en la raíz del proyecto corré el comando
 
 ## Autor ✒️
 
